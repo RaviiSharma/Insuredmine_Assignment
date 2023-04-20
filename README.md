@@ -9,3 +9,4 @@ Task 1:
 3) Consider each info as a different collection in MongoDB (Agent, User, User's Account, LOB, Carrier, Policy).
 
  
+@insuredmine.csv
