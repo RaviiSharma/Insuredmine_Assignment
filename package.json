@@ -1,0 +1,28 @@
+{
+  "name": "insuredmine_assignment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npx nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RaviiSharma/Insuredmine_Assignment.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RaviiSharma/Insuredmine_Assignment/issues"
+  },
+  "homepage": "https://github.com/RaviiSharma/Insuredmine_Assignment#readme",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "csvtojson": "^2.0.10",
+    "express": "^4.18.2",
+    "mongoose": "^7.0.4",
+    "multer": "^1.4.5-lts.1",
+    "nodemon": "^2.0.22"
+  }
+}
